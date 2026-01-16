@@ -1,5 +1,4 @@
-<h1 align="left">Hi, My name is Nikolay Kulov 👋
-Future backend dev 🙌 </h1>
+<h1 align="left">Hi, My name is Nikolay Kulov 👋 </h1>
 I am currently a student at <a style="text-decoration: none;" href="https://github.com/codingburgas">@Coding Burgas</a> , where I am studying programming.  
 Now I am learning C++ and Pyhon. 
 
