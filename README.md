@@ -1,6 +1,6 @@
 <h1 align="left">Hi, My name is Nikolay Kulov 👋 </h1>
-I am currently a student at <a style="text-decoration: none;" href="https://github.com/codingburgas">@Coding Burgas</a> , where I am studying programming.  
-Now I am learning C++ and Pyhon. 
+I am a student at <a style="text-decoration: none;" href="https://github.com/codingburgas">@Coding Burgas</a> , where I am studying programming.  
+Currently learning Python, R and C++. 
 
 ### Languages
 <code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></code>
