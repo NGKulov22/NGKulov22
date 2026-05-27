@@ -5,7 +5,7 @@ Currently learning Python, R and C++.
 ### Languages
 <code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></code>
 <code><img height="27" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></code>
-<code><img height="27" src="https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg" alt="R"></code>
+<code><img height="27" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></code>de>
 
 ### Databases
 <code><img height="27" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL"></code>
